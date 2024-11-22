@@ -19,7 +19,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome Thi!");
+        System.out.println("Welcome Nguyen Ngoc Lan Thi!");
     }
 }
 
